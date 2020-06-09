@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\MedicalLaboratoryITI.csproj" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="_ViewStart.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\Api.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\Api.cshtml" />
+  <event action="Analyze" type="Success" name="Api.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\Api.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
+  <event action="Analyze" type="Success" name="ApiGroup.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="CollectionModelDescription.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\ComplexTypeModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\ComplexTypeModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="ComplexTypeModelDescription.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\ComplexTypeModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\DictionaryModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\DictionaryModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="DictionaryModelDescription.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\DictionaryModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\EnumTypeModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\EnumTypeModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="EnumTypeModelDescription.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\EnumTypeModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.cshtml" />
+  <event action="Analyze" type="Success" name="HelpPageApiModel.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.cshtml" />
+  <event action="Analyze" type="Success" name="ImageSample.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.cshtml" />
+  <event action="Analyze" type="Success" name="InvalidSample.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\KeyValuePairModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\KeyValuePairModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="KeyValuePairModelDescription.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\KeyValuePairModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\ModelDescriptionLink.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\ModelDescriptionLink.cshtml" />
+  <event action="Analyze" type="Success" name="ModelDescriptionLink.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\ModelDescriptionLink.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.cshtml" />
+  <event action="Analyze" type="Success" name="Parameters.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\Samples.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\Samples.cshtml" />
+  <event action="Analyze" type="Success" name="Samples.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\Samples.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\SimpleTypeModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\SimpleTypeModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="SimpleTypeModelDescription.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\SimpleTypeModelDescription.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml" />
+  <event action="Analyze" type="Success" name="TextSample.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Index.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\ResourceModel.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\ResourceModel.cshtml" />
+  <event action="Analyze" type="Success" name="ResourceModel.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Help\ResourceModel.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="_Layout.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Areas\HelpPage\Views\Web.config" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\packages.config" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="_ViewStart.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\Home\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\Home\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Index.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\Home\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="_Layout.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\Shared\Error.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\Shared\Error.cshtml" />
+  <event action="Analyze" type="Success" name="Error.cshtml" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\Shared\Error.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Web.Debug.config" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Web.Release.config" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.Release.config" />
+  <event action="Analyze" type="Success" name="MedicalLaboratoryITI" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\MedicalLaboratoryITI.csproj" />
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\MedicalLaboratoryITI.Tests.csproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\App.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\App.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\App.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\App.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\App.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\App.config" />
+  <event action="Analyze" type="Success" name="App.config" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\App.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\packages.config" />
+  <event action="Analyze" type="Success" name="MedicalLaboratoryITI.Tests" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\MedicalLaboratoryITI.Tests.csproj" />
+  <event action="Analyze" type="Success" name="MedicalLaboratoryITI" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.sln" />
+  <event action="Backup" type="Success" name="MedicalLaboratoryITI" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\MedicalLaboratoryITI.csproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\MedicalLaboratoryITI.csproj" />
+  <event action="Upgrade" type="Success" name="Config Sections" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.config" />
+  <event action="Upgrade" type="Success" name="Web.config" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.config" />
+  <event action="Upgrade" type="Success" name="MedicalLaboratoryITI" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\MedicalLaboratoryITI.csproj" />
+  <event action="Upgrade" type="Success" name="MedicalLaboratoryITI" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.sln" />
+</log>

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace MedicalLaboratoryITI
 {
@@ -11,7 +12,8 @@ namespace MedicalLaboratoryITI
     {
         public static void Register(HttpConfiguration config)
         {
-
+             //Telerik.Reporting.Services.WebApi.ReportsControllerConfiguration.RegisterRoutes(config);
+             config.EnableCors();
             // Web API configuration and services
             config.Formatters.Remove(config.Formatters.XmlFormatter);
             config.Formatters.JsonFormatter.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
