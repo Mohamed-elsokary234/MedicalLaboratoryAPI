@@ -1,5 +1,7 @@
 ﻿namespace MedicalLaboratoryITI.Controllers
 {
+    using System;
+    using System.Collections;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     using System.Linq;
@@ -53,7 +55,17 @@
             var patient = this.db.patients.Find(id);
             if (patient == null) return this.NotFound();
 
-            return this.Ok(patient);
+            return this.Ok(patient.pat_f_name);
+        }
+
+        [ResponseType(typeof(patient))]
+        public IHttpActionResult Getpatient(string name)
+        {
+            var p = (from s in this.db.patients where s.pat_f_name.ToLower().Contains(name.ToLower()) select s);
+            //var patient = this.db.patients.Find(name.ToLower());
+            if (p == null) return this.NotFound();
+            
+            return this.Ok(p.ToArray());
         }
 
         // GET: api/patients
@@ -67,6 +79,17 @@
         {
             return this.db.patients;
         }
+
+
+
+        //[HttpGet]
+        //[ResponseType(typeof(patient))]
+        //[Route("patient/name")]
+        //public IQueryable<string> patientsname()
+        //{
+        //    var p = this.db.patients.Select(s => s.pat_f_name);
+        //    return p;
+        //}
 
         // POST: api/patients
         /// <summary>
