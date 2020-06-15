@@ -147,10 +147,4 @@
   <event action="Analyze" type="Success" name="packages.config" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\packages.config" />
   <event action="Analyze" type="Success" name="MedicalLaboratoryITI.Tests" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.Tests\MedicalLaboratoryITI.Tests.csproj" />
   <event action="Analyze" type="Success" name="MedicalLaboratoryITI" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.sln" />
-  <event action="Backup" type="Success" name="MedicalLaboratoryITI" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\MedicalLaboratoryITI.csproj" />
-  <event action="Upgrade" type="Success" name="Assembly References" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\MedicalLaboratoryITI.csproj" />
-  <event action="Upgrade" type="Success" name="Config Sections" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.config" />
-  <event action="Upgrade" type="Success" name="Web.config" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\Web.config" />
-  <event action="Upgrade" type="Success" name="MedicalLaboratoryITI" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI\MedicalLaboratoryITI.csproj" />
-  <event action="Upgrade" type="Success" name="MedicalLaboratoryITI" path="C:\Users\NAGY\Desktop\New folder (2)\New folder\MedicalLaboratoryITI\MedicalLaboratoryITI.sln" />
 </log>
